@@ -1,0 +1,17 @@
+{
+  "name": "word-count",
+  "version": "1.0.0",
+  "description": "Word Count Lab",
+  "main": "word-count.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/word-count-tests.js"
+  },
+  "author": "Genevieve Osuorji",
+  "license": "MIT",
+  "dependencies": {
+    "expect": "^1.20.2"
+  }
+}
